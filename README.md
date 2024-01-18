@@ -6,9 +6,9 @@ Content tagging is a way of organizing and categorizing information on websites,
 steps to develop a deep learning model for this task and also the tools I've used include:
 
 - Preparing data:
-  1- Used NLTK for Tokenization
-  2- Removed punctuation and digits
-  3- Converted to lowercase
+  1. Used NLTK for Tokenization
+  2. Removed punctuation and digits
+  3. Converted to lowercase
 
 - Data Preprocessing:
   1. Converted the text data into a numerical format that can be fed into a deep learning model.
